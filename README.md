@@ -1,5 +1,5 @@
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
-- Latest build status with azerothcore: [![Build Status](https://travis-ci.org/azerothcore/mod-npc-titles-tokens.svg?branch=master)](https://travis-ci.org/azerothcore/mod-npc-titles-tokens)
+- Latest build status with azerothcore: [![Build Status](https://github.com/azerothcore/mod-npc-titles-tokens/workflows/core-build/badge.svg?branch=master&event=push)](https://github.com/azerothcore/mod-npc-titles-tokens)
 
 # ViperDev Modules
 
