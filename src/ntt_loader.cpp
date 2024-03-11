@@ -1,5 +1,6 @@
 void AddSC_NPC_Title_Tokens();
 
-void AddNPC_Title_TokensScripts() {
+void Addmod_npc_titles_tokensScripts()
+{
     AddSC_NPC_Title_Tokens();
 }
